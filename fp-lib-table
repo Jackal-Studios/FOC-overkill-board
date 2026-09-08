@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "DRV8353FHRTAR") (type "KiCad") (uri "${KIPRJMOD}/lib/DRV8353FHRTAR/footprints.pretty") (options "") (descr ""))
 	(lib (name "AOTA-B201610S3R3-101-T") (type "KiCad") (uri "${KIPRJMOD}/lib/AOTA-B201610S3R3-101-T/AOTA-B201610S3R3-101-T.pretty") (options "") (descr ""))
+	(lib (name "BSC016N06NS") (type "KiCad") (uri "${KIPRJMOD}/lib/Infineon BSC016N06NS/BSC016N06NS.pretty") (options "") (descr ""))
 )

@@ -320,7 +320,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 1.27 5.08 270)
 				(length 2.54)
 				(hide yes)
@@ -339,7 +339,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 1.27 5.08 270)
 				(length 2.54)
 				(hide yes)
@@ -358,7 +358,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 1.27 5.08 270)
 				(length 2.54)
 				(hide yes)
@@ -379,30 +379,6 @@
 			)
 		)
 		(symbol "BSC016N06NSTATMA1_1_1"
-			(text "G"
-				(at -3.81 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(text "S"
-				(at 2.286 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(text "D"
-				(at 2.54 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
 			(pin passive line
 				(at 1.27 -5.08 90)
 				(length 2.54)
